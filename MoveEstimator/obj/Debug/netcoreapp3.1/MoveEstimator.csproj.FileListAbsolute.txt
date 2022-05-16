@@ -1,0 +1,13 @@
+C:\Users\Xxmat\source\repos\MoveEstimator\obj\Debug\netcoreapp3.1\MoveEstimator.csprojAssemblyReference.cache
+C:\Users\Xxmat\source\repos\MoveEstimator\obj\Debug\netcoreapp3.1\MoveEstimator.csproj.CoreCompileInputs.cache
+C:\Users\Xxmat\source\repos\MoveEstimator\obj\Debug\netcoreapp3.1\MoveEstimator.AssemblyInfoInputs.cache
+C:\Users\Xxmat\source\repos\MoveEstimator\obj\Debug\netcoreapp3.1\MoveEstimator.AssemblyInfo.cs
+C:\Users\Xxmat\source\repos\MoveEstimator\bin\Debug\netcoreapp3.1\MoveEstimator.exe
+C:\Users\Xxmat\source\repos\MoveEstimator\bin\Debug\netcoreapp3.1\MoveEstimator.deps.json
+C:\Users\Xxmat\source\repos\MoveEstimator\bin\Debug\netcoreapp3.1\MoveEstimator.runtimeconfig.json
+C:\Users\Xxmat\source\repos\MoveEstimator\bin\Debug\netcoreapp3.1\MoveEstimator.runtimeconfig.dev.json
+C:\Users\Xxmat\source\repos\MoveEstimator\bin\Debug\netcoreapp3.1\MoveEstimator.dll
+C:\Users\Xxmat\source\repos\MoveEstimator\bin\Debug\netcoreapp3.1\MoveEstimator.pdb
+C:\Users\Xxmat\source\repos\MoveEstimator\obj\Debug\netcoreapp3.1\MoveEstimator.dll
+C:\Users\Xxmat\source\repos\MoveEstimator\obj\Debug\netcoreapp3.1\MoveEstimator.pdb
+C:\Users\Xxmat\source\repos\MoveEstimator\obj\Debug\netcoreapp3.1\MoveEstimator.genruntimeconfig.cache

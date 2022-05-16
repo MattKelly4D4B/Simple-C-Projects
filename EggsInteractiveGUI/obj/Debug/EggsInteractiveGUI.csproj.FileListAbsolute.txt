@@ -1,0 +1,10 @@
+C:\Users\Xxmat\Documents\Src\C# 1\EggsInteractiveGUI\bin\Debug\EggsInteractiveGUI.exe.config
+C:\Users\Xxmat\Documents\Src\C# 1\EggsInteractiveGUI\bin\Debug\EggsInteractiveGUI.exe
+C:\Users\Xxmat\Documents\Src\C# 1\EggsInteractiveGUI\bin\Debug\EggsInteractiveGUI.pdb
+C:\Users\Xxmat\Documents\Src\C# 1\EggsInteractiveGUI\obj\Debug\EggsInteractiveGUI.csprojAssemblyReference.cache
+C:\Users\Xxmat\Documents\Src\C# 1\EggsInteractiveGUI\obj\Debug\EggsInteractiveGUI.Form1.resources
+C:\Users\Xxmat\Documents\Src\C# 1\EggsInteractiveGUI\obj\Debug\EggsInteractiveGUI.Properties.Resources.resources
+C:\Users\Xxmat\Documents\Src\C# 1\EggsInteractiveGUI\obj\Debug\EggsInteractiveGUI.csproj.GenerateResource.cache
+C:\Users\Xxmat\Documents\Src\C# 1\EggsInteractiveGUI\obj\Debug\EggsInteractiveGUI.csproj.CoreCompileInputs.cache
+C:\Users\Xxmat\Documents\Src\C# 1\EggsInteractiveGUI\obj\Debug\EggsInteractiveGUI.exe
+C:\Users\Xxmat\Documents\Src\C# 1\EggsInteractiveGUI\obj\Debug\EggsInteractiveGUI.pdb

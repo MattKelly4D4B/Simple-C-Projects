@@ -1,0 +1,13 @@
+C:\Users\Xxmat\source\repos\TestsInteractive\obj\Debug\netcoreapp3.1\TestsInteractive.csprojAssemblyReference.cache
+C:\Users\Xxmat\source\repos\TestsInteractive\obj\Debug\netcoreapp3.1\TestsInteractive.csproj.CoreCompileInputs.cache
+C:\Users\Xxmat\source\repos\TestsInteractive\obj\Debug\netcoreapp3.1\TestsInteractive.AssemblyInfoInputs.cache
+C:\Users\Xxmat\source\repos\TestsInteractive\obj\Debug\netcoreapp3.1\TestsInteractive.AssemblyInfo.cs
+C:\Users\Xxmat\source\repos\TestsInteractive\bin\Debug\netcoreapp3.1\TestsInteractive.exe
+C:\Users\Xxmat\source\repos\TestsInteractive\bin\Debug\netcoreapp3.1\TestsInteractive.deps.json
+C:\Users\Xxmat\source\repos\TestsInteractive\bin\Debug\netcoreapp3.1\TestsInteractive.runtimeconfig.json
+C:\Users\Xxmat\source\repos\TestsInteractive\bin\Debug\netcoreapp3.1\TestsInteractive.runtimeconfig.dev.json
+C:\Users\Xxmat\source\repos\TestsInteractive\bin\Debug\netcoreapp3.1\TestsInteractive.dll
+C:\Users\Xxmat\source\repos\TestsInteractive\bin\Debug\netcoreapp3.1\TestsInteractive.pdb
+C:\Users\Xxmat\source\repos\TestsInteractive\obj\Debug\netcoreapp3.1\TestsInteractive.dll
+C:\Users\Xxmat\source\repos\TestsInteractive\obj\Debug\netcoreapp3.1\TestsInteractive.pdb
+C:\Users\Xxmat\source\repos\TestsInteractive\obj\Debug\netcoreapp3.1\TestsInteractive.genruntimeconfig.cache

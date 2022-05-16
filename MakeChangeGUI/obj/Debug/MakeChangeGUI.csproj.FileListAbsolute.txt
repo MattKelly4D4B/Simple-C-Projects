@@ -1,0 +1,10 @@
+C:\Users\Xxmat\Documents\Src\C# 1\MakeChangeGUI\bin\Debug\MakeChangeGUI.exe.config
+C:\Users\Xxmat\Documents\Src\C# 1\MakeChangeGUI\bin\Debug\MakeChangeGUI.exe
+C:\Users\Xxmat\Documents\Src\C# 1\MakeChangeGUI\bin\Debug\MakeChangeGUI.pdb
+C:\Users\Xxmat\Documents\Src\C# 1\MakeChangeGUI\obj\Debug\MakeChangeGUI.csprojAssemblyReference.cache
+C:\Users\Xxmat\Documents\Src\C# 1\MakeChangeGUI\obj\Debug\MakeChangeGUI.Form1.resources
+C:\Users\Xxmat\Documents\Src\C# 1\MakeChangeGUI\obj\Debug\MakeChangeGUI.Properties.Resources.resources
+C:\Users\Xxmat\Documents\Src\C# 1\MakeChangeGUI\obj\Debug\MakeChangeGUI.csproj.GenerateResource.cache
+C:\Users\Xxmat\Documents\Src\C# 1\MakeChangeGUI\obj\Debug\MakeChangeGUI.csproj.CoreCompileInputs.cache
+C:\Users\Xxmat\Documents\Src\C# 1\MakeChangeGUI\obj\Debug\MakeChangeGUI.exe
+C:\Users\Xxmat\Documents\Src\C# 1\MakeChangeGUI\obj\Debug\MakeChangeGUI.pdb

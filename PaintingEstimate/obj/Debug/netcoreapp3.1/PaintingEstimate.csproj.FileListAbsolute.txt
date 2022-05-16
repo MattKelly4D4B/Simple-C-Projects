@@ -1,0 +1,26 @@
+C:\Users\Xxmat\Documents\Src\Practice\PaintingEstimate\bin\Debug\netcoreapp3.1\PaintingEstimate.exe
+C:\Users\Xxmat\Documents\Src\Practice\PaintingEstimate\bin\Debug\netcoreapp3.1\PaintingEstimate.deps.json
+C:\Users\Xxmat\Documents\Src\Practice\PaintingEstimate\bin\Debug\netcoreapp3.1\PaintingEstimate.runtimeconfig.json
+C:\Users\Xxmat\Documents\Src\Practice\PaintingEstimate\bin\Debug\netcoreapp3.1\PaintingEstimate.runtimeconfig.dev.json
+C:\Users\Xxmat\Documents\Src\Practice\PaintingEstimate\bin\Debug\netcoreapp3.1\PaintingEstimate.dll
+C:\Users\Xxmat\Documents\Src\Practice\PaintingEstimate\bin\Debug\netcoreapp3.1\PaintingEstimate.pdb
+C:\Users\Xxmat\Documents\Src\Practice\PaintingEstimate\obj\Debug\netcoreapp3.1\PaintingEstimate.csprojAssemblyReference.cache
+C:\Users\Xxmat\Documents\Src\Practice\PaintingEstimate\obj\Debug\netcoreapp3.1\PaintingEstimate.csproj.CoreCompileInputs.cache
+C:\Users\Xxmat\Documents\Src\Practice\PaintingEstimate\obj\Debug\netcoreapp3.1\PaintingEstimate.AssemblyInfoInputs.cache
+C:\Users\Xxmat\Documents\Src\Practice\PaintingEstimate\obj\Debug\netcoreapp3.1\PaintingEstimate.AssemblyInfo.cs
+C:\Users\Xxmat\Documents\Src\Practice\PaintingEstimate\obj\Debug\netcoreapp3.1\PaintingEstimate.dll
+C:\Users\Xxmat\Documents\Src\Practice\PaintingEstimate\obj\Debug\netcoreapp3.1\PaintingEstimate.pdb
+C:\Users\Xxmat\Documents\Src\Practice\PaintingEstimate\obj\Debug\netcoreapp3.1\PaintingEstimate.genruntimeconfig.cache
+C:\Users\Xxmat\Documents\Src\C# 1\PaintingEstimate\bin\Debug\netcoreapp3.1\PaintingEstimate.exe
+C:\Users\Xxmat\Documents\Src\C# 1\PaintingEstimate\bin\Debug\netcoreapp3.1\PaintingEstimate.deps.json
+C:\Users\Xxmat\Documents\Src\C# 1\PaintingEstimate\bin\Debug\netcoreapp3.1\PaintingEstimate.runtimeconfig.json
+C:\Users\Xxmat\Documents\Src\C# 1\PaintingEstimate\bin\Debug\netcoreapp3.1\PaintingEstimate.runtimeconfig.dev.json
+C:\Users\Xxmat\Documents\Src\C# 1\PaintingEstimate\bin\Debug\netcoreapp3.1\PaintingEstimate.dll
+C:\Users\Xxmat\Documents\Src\C# 1\PaintingEstimate\bin\Debug\netcoreapp3.1\PaintingEstimate.pdb
+C:\Users\Xxmat\Documents\Src\C# 1\PaintingEstimate\obj\Debug\netcoreapp3.1\PaintingEstimate.csprojAssemblyReference.cache
+C:\Users\Xxmat\Documents\Src\C# 1\PaintingEstimate\obj\Debug\netcoreapp3.1\PaintingEstimate.csproj.CoreCompileInputs.cache
+C:\Users\Xxmat\Documents\Src\C# 1\PaintingEstimate\obj\Debug\netcoreapp3.1\PaintingEstimate.AssemblyInfoInputs.cache
+C:\Users\Xxmat\Documents\Src\C# 1\PaintingEstimate\obj\Debug\netcoreapp3.1\PaintingEstimate.AssemblyInfo.cs
+C:\Users\Xxmat\Documents\Src\C# 1\PaintingEstimate\obj\Debug\netcoreapp3.1\PaintingEstimate.dll
+C:\Users\Xxmat\Documents\Src\C# 1\PaintingEstimate\obj\Debug\netcoreapp3.1\PaintingEstimate.pdb
+C:\Users\Xxmat\Documents\Src\C# 1\PaintingEstimate\obj\Debug\netcoreapp3.1\PaintingEstimate.genruntimeconfig.cache

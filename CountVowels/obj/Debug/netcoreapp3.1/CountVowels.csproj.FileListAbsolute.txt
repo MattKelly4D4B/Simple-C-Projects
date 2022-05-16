@@ -1,0 +1,25 @@
+C:\Users\Xxmat\source\repos\CountVowels\bin\Debug\netcoreapp3.1\CountVowels.exe
+C:\Users\Xxmat\source\repos\CountVowels\bin\Debug\netcoreapp3.1\CountVowels.deps.json
+C:\Users\Xxmat\source\repos\CountVowels\bin\Debug\netcoreapp3.1\CountVowels.runtimeconfig.json
+C:\Users\Xxmat\source\repos\CountVowels\bin\Debug\netcoreapp3.1\CountVowels.runtimeconfig.dev.json
+C:\Users\Xxmat\source\repos\CountVowels\bin\Debug\netcoreapp3.1\CountVowels.dll
+C:\Users\Xxmat\source\repos\CountVowels\bin\Debug\netcoreapp3.1\CountVowels.pdb
+C:\Users\Xxmat\source\repos\CountVowels\obj\Debug\netcoreapp3.1\CountVowels.csproj.CoreCompileInputs.cache
+C:\Users\Xxmat\source\repos\CountVowels\obj\Debug\netcoreapp3.1\CountVowels.AssemblyInfoInputs.cache
+C:\Users\Xxmat\source\repos\CountVowels\obj\Debug\netcoreapp3.1\CountVowels.AssemblyInfo.cs
+C:\Users\Xxmat\source\repos\CountVowels\obj\Debug\netcoreapp3.1\CountVowels.dll
+C:\Users\Xxmat\source\repos\CountVowels\obj\Debug\netcoreapp3.1\CountVowels.pdb
+C:\Users\Xxmat\source\repos\CountVowels\obj\Debug\netcoreapp3.1\CountVowels.genruntimeconfig.cache
+C:\Users\Xxmat\Documents\Src\C# 1\CountVowels\obj\Debug\netcoreapp3.1\CountVowels.csprojAssemblyReference.cache
+C:\Users\Xxmat\Documents\Src\C# 1\CountVowels\obj\Debug\netcoreapp3.1\CountVowels.csproj.CoreCompileInputs.cache
+C:\Users\Xxmat\Documents\Src\C# 1\CountVowels\obj\Debug\netcoreapp3.1\CountVowels.AssemblyInfoInputs.cache
+C:\Users\Xxmat\Documents\Src\C# 1\CountVowels\obj\Debug\netcoreapp3.1\CountVowels.AssemblyInfo.cs
+C:\Users\Xxmat\Documents\Src\C# 1\CountVowels\obj\Debug\netcoreapp3.1\CountVowels.dll
+C:\Users\Xxmat\Documents\Src\C# 1\CountVowels\obj\Debug\netcoreapp3.1\CountVowels.pdb
+C:\Users\Xxmat\Documents\Src\C# 1\CountVowels\bin\Debug\netcoreapp3.1\CountVowels.exe
+C:\Users\Xxmat\Documents\Src\C# 1\CountVowels\bin\Debug\netcoreapp3.1\CountVowels.deps.json
+C:\Users\Xxmat\Documents\Src\C# 1\CountVowels\bin\Debug\netcoreapp3.1\CountVowels.runtimeconfig.json
+C:\Users\Xxmat\Documents\Src\C# 1\CountVowels\bin\Debug\netcoreapp3.1\CountVowels.runtimeconfig.dev.json
+C:\Users\Xxmat\Documents\Src\C# 1\CountVowels\bin\Debug\netcoreapp3.1\CountVowels.dll
+C:\Users\Xxmat\Documents\Src\C# 1\CountVowels\bin\Debug\netcoreapp3.1\CountVowels.pdb
+C:\Users\Xxmat\Documents\Src\C# 1\CountVowels\obj\Debug\netcoreapp3.1\CountVowels.genruntimeconfig.cache

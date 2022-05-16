@@ -1,0 +1,13 @@
+C:\Users\Xxmat\source\repos\ArrayDemo\obj\Debug\netcoreapp3.1\ArrayDemo.csprojAssemblyReference.cache
+C:\Users\Xxmat\source\repos\ArrayDemo\obj\Debug\netcoreapp3.1\ArrayDemo.csproj.CoreCompileInputs.cache
+C:\Users\Xxmat\source\repos\ArrayDemo\obj\Debug\netcoreapp3.1\ArrayDemo.AssemblyInfoInputs.cache
+C:\Users\Xxmat\source\repos\ArrayDemo\obj\Debug\netcoreapp3.1\ArrayDemo.AssemblyInfo.cs
+C:\Users\Xxmat\source\repos\ArrayDemo\bin\Debug\netcoreapp3.1\ArrayDemo.exe
+C:\Users\Xxmat\source\repos\ArrayDemo\bin\Debug\netcoreapp3.1\ArrayDemo.deps.json
+C:\Users\Xxmat\source\repos\ArrayDemo\bin\Debug\netcoreapp3.1\ArrayDemo.runtimeconfig.json
+C:\Users\Xxmat\source\repos\ArrayDemo\bin\Debug\netcoreapp3.1\ArrayDemo.runtimeconfig.dev.json
+C:\Users\Xxmat\source\repos\ArrayDemo\bin\Debug\netcoreapp3.1\ArrayDemo.dll
+C:\Users\Xxmat\source\repos\ArrayDemo\bin\Debug\netcoreapp3.1\ArrayDemo.pdb
+C:\Users\Xxmat\source\repos\ArrayDemo\obj\Debug\netcoreapp3.1\ArrayDemo.dll
+C:\Users\Xxmat\source\repos\ArrayDemo\obj\Debug\netcoreapp3.1\ArrayDemo.pdb
+C:\Users\Xxmat\source\repos\ArrayDemo\obj\Debug\netcoreapp3.1\ArrayDemo.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\Xxmat\source\repos\EggsInteractive\bin\Debug\netcoreapp3.1\EggsInteractive.exe
+C:\Users\Xxmat\source\repos\EggsInteractive\bin\Debug\netcoreapp3.1\EggsInteractive.deps.json
+C:\Users\Xxmat\source\repos\EggsInteractive\bin\Debug\netcoreapp3.1\EggsInteractive.runtimeconfig.json
+C:\Users\Xxmat\source\repos\EggsInteractive\bin\Debug\netcoreapp3.1\EggsInteractive.runtimeconfig.dev.json
+C:\Users\Xxmat\source\repos\EggsInteractive\bin\Debug\netcoreapp3.1\EggsInteractive.dll
+C:\Users\Xxmat\source\repos\EggsInteractive\bin\Debug\netcoreapp3.1\EggsInteractive.pdb
+C:\Users\Xxmat\source\repos\EggsInteractive\obj\Debug\netcoreapp3.1\EggsInteractive.csprojAssemblyReference.cache
+C:\Users\Xxmat\source\repos\EggsInteractive\obj\Debug\netcoreapp3.1\EggsInteractive.csproj.CoreCompileInputs.cache
+C:\Users\Xxmat\source\repos\EggsInteractive\obj\Debug\netcoreapp3.1\EggsInteractive.AssemblyInfoInputs.cache
+C:\Users\Xxmat\source\repos\EggsInteractive\obj\Debug\netcoreapp3.1\EggsInteractive.AssemblyInfo.cs
+C:\Users\Xxmat\source\repos\EggsInteractive\obj\Debug\netcoreapp3.1\EggsInteractive.dll
+C:\Users\Xxmat\source\repos\EggsInteractive\obj\Debug\netcoreapp3.1\EggsInteractive.pdb
+C:\Users\Xxmat\source\repos\EggsInteractive\obj\Debug\netcoreapp3.1\EggsInteractive.genruntimeconfig.cache

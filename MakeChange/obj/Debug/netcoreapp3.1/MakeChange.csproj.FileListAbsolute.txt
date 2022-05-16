@@ -1,0 +1,13 @@
+C:\Users\Xxmat\source\repos\MakeChange\bin\Debug\netcoreapp3.1\MakeChange.exe
+C:\Users\Xxmat\source\repos\MakeChange\bin\Debug\netcoreapp3.1\MakeChange.deps.json
+C:\Users\Xxmat\source\repos\MakeChange\bin\Debug\netcoreapp3.1\MakeChange.runtimeconfig.json
+C:\Users\Xxmat\source\repos\MakeChange\bin\Debug\netcoreapp3.1\MakeChange.runtimeconfig.dev.json
+C:\Users\Xxmat\source\repos\MakeChange\bin\Debug\netcoreapp3.1\MakeChange.dll
+C:\Users\Xxmat\source\repos\MakeChange\bin\Debug\netcoreapp3.1\MakeChange.pdb
+C:\Users\Xxmat\source\repos\MakeChange\obj\Debug\netcoreapp3.1\MakeChange.csprojAssemblyReference.cache
+C:\Users\Xxmat\source\repos\MakeChange\obj\Debug\netcoreapp3.1\MakeChange.csproj.CoreCompileInputs.cache
+C:\Users\Xxmat\source\repos\MakeChange\obj\Debug\netcoreapp3.1\MakeChange.AssemblyInfoInputs.cache
+C:\Users\Xxmat\source\repos\MakeChange\obj\Debug\netcoreapp3.1\MakeChange.AssemblyInfo.cs
+C:\Users\Xxmat\source\repos\MakeChange\obj\Debug\netcoreapp3.1\MakeChange.dll
+C:\Users\Xxmat\source\repos\MakeChange\obj\Debug\netcoreapp3.1\MakeChange.pdb
+C:\Users\Xxmat\source\repos\MakeChange\obj\Debug\netcoreapp3.1\MakeChange.genruntimeconfig.cache

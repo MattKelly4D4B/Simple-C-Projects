@@ -1,0 +1,13 @@
+C:\Users\Xxmat\Documents\Src\C# 1\ChatAWhile\bin\Debug\netcoreapp3.1\ChatAWhile.exe
+C:\Users\Xxmat\Documents\Src\C# 1\ChatAWhile\bin\Debug\netcoreapp3.1\ChatAWhile.deps.json
+C:\Users\Xxmat\Documents\Src\C# 1\ChatAWhile\bin\Debug\netcoreapp3.1\ChatAWhile.runtimeconfig.json
+C:\Users\Xxmat\Documents\Src\C# 1\ChatAWhile\bin\Debug\netcoreapp3.1\ChatAWhile.runtimeconfig.dev.json
+C:\Users\Xxmat\Documents\Src\C# 1\ChatAWhile\bin\Debug\netcoreapp3.1\ChatAWhile.dll
+C:\Users\Xxmat\Documents\Src\C# 1\ChatAWhile\bin\Debug\netcoreapp3.1\ChatAWhile.pdb
+C:\Users\Xxmat\Documents\Src\C# 1\ChatAWhile\obj\Debug\netcoreapp3.1\ChatAWhile.csprojAssemblyReference.cache
+C:\Users\Xxmat\Documents\Src\C# 1\ChatAWhile\obj\Debug\netcoreapp3.1\ChatAWhile.csproj.CoreCompileInputs.cache
+C:\Users\Xxmat\Documents\Src\C# 1\ChatAWhile\obj\Debug\netcoreapp3.1\ChatAWhile.AssemblyInfoInputs.cache
+C:\Users\Xxmat\Documents\Src\C# 1\ChatAWhile\obj\Debug\netcoreapp3.1\ChatAWhile.AssemblyInfo.cs
+C:\Users\Xxmat\Documents\Src\C# 1\ChatAWhile\obj\Debug\netcoreapp3.1\ChatAWhile.dll
+C:\Users\Xxmat\Documents\Src\C# 1\ChatAWhile\obj\Debug\netcoreapp3.1\ChatAWhile.pdb
+C:\Users\Xxmat\Documents\Src\C# 1\ChatAWhile\obj\Debug\netcoreapp3.1\ChatAWhile.genruntimeconfig.cache

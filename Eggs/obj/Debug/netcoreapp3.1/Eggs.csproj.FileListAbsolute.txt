@@ -1,0 +1,12 @@
+C:\Users\Xxmat\source\repos\Eggs\bin\Debug\netcoreapp3.1\Eggs.exe
+C:\Users\Xxmat\source\repos\Eggs\bin\Debug\netcoreapp3.1\Eggs.deps.json
+C:\Users\Xxmat\source\repos\Eggs\bin\Debug\netcoreapp3.1\Eggs.runtimeconfig.json
+C:\Users\Xxmat\source\repos\Eggs\bin\Debug\netcoreapp3.1\Eggs.runtimeconfig.dev.json
+C:\Users\Xxmat\source\repos\Eggs\bin\Debug\netcoreapp3.1\Eggs.dll
+C:\Users\Xxmat\source\repos\Eggs\bin\Debug\netcoreapp3.1\Eggs.pdb
+C:\Users\Xxmat\source\repos\Eggs\obj\Debug\netcoreapp3.1\Eggs.csproj.CoreCompileInputs.cache
+C:\Users\Xxmat\source\repos\Eggs\obj\Debug\netcoreapp3.1\Eggs.AssemblyInfoInputs.cache
+C:\Users\Xxmat\source\repos\Eggs\obj\Debug\netcoreapp3.1\Eggs.AssemblyInfo.cs
+C:\Users\Xxmat\source\repos\Eggs\obj\Debug\netcoreapp3.1\Eggs.dll
+C:\Users\Xxmat\source\repos\Eggs\obj\Debug\netcoreapp3.1\Eggs.pdb
+C:\Users\Xxmat\source\repos\Eggs\obj\Debug\netcoreapp3.1\Eggs.genruntimeconfig.cache

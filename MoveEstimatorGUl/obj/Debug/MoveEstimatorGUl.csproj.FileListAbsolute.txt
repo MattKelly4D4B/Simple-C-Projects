@@ -1,0 +1,10 @@
+C:\Users\Xxmat\Documents\Src\C# 1\MoveEstimatorGUl\bin\Debug\MoveEstimatorGUl.exe.config
+C:\Users\Xxmat\Documents\Src\C# 1\MoveEstimatorGUl\bin\Debug\MoveEstimatorGUl.exe
+C:\Users\Xxmat\Documents\Src\C# 1\MoveEstimatorGUl\bin\Debug\MoveEstimatorGUl.pdb
+C:\Users\Xxmat\Documents\Src\C# 1\MoveEstimatorGUl\obj\Debug\MoveEstimatorGUl.csprojAssemblyReference.cache
+C:\Users\Xxmat\Documents\Src\C# 1\MoveEstimatorGUl\obj\Debug\MoveEstimatorGUl.Form1.resources
+C:\Users\Xxmat\Documents\Src\C# 1\MoveEstimatorGUl\obj\Debug\MoveEstimatorGUl.Properties.Resources.resources
+C:\Users\Xxmat\Documents\Src\C# 1\MoveEstimatorGUl\obj\Debug\MoveEstimatorGUl.csproj.GenerateResource.cache
+C:\Users\Xxmat\Documents\Src\C# 1\MoveEstimatorGUl\obj\Debug\MoveEstimatorGUl.csproj.CoreCompileInputs.cache
+C:\Users\Xxmat\Documents\Src\C# 1\MoveEstimatorGUl\obj\Debug\MoveEstimatorGUl.exe
+C:\Users\Xxmat\Documents\Src\C# 1\MoveEstimatorGUl\obj\Debug\MoveEstimatorGUl.pdb

@@ -1,0 +1,12 @@
+C:\Users\Xxmat\source\repos\Perfect\bin\Debug\netcoreapp3.1\Perfect.exe
+C:\Users\Xxmat\source\repos\Perfect\bin\Debug\netcoreapp3.1\Perfect.deps.json
+C:\Users\Xxmat\source\repos\Perfect\bin\Debug\netcoreapp3.1\Perfect.runtimeconfig.json
+C:\Users\Xxmat\source\repos\Perfect\bin\Debug\netcoreapp3.1\Perfect.runtimeconfig.dev.json
+C:\Users\Xxmat\source\repos\Perfect\bin\Debug\netcoreapp3.1\Perfect.dll
+C:\Users\Xxmat\source\repos\Perfect\bin\Debug\netcoreapp3.1\Perfect.pdb
+C:\Users\Xxmat\source\repos\Perfect\obj\Debug\netcoreapp3.1\Perfect.csproj.CoreCompileInputs.cache
+C:\Users\Xxmat\source\repos\Perfect\obj\Debug\netcoreapp3.1\Perfect.AssemblyInfoInputs.cache
+C:\Users\Xxmat\source\repos\Perfect\obj\Debug\netcoreapp3.1\Perfect.AssemblyInfo.cs
+C:\Users\Xxmat\source\repos\Perfect\obj\Debug\netcoreapp3.1\Perfect.dll
+C:\Users\Xxmat\source\repos\Perfect\obj\Debug\netcoreapp3.1\Perfect.pdb
+C:\Users\Xxmat\source\repos\Perfect\obj\Debug\netcoreapp3.1\Perfect.genruntimeconfig.cache

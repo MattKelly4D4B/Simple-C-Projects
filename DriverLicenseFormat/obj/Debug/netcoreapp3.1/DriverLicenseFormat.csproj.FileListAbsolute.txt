@@ -1,0 +1,13 @@
+C:\Users\Xxmat\Documents\Src\C# 1\DriverLicenseFormat\obj\Debug\netcoreapp3.1\DriverLicenseFormat.csproj.CoreCompileInputs.cache
+C:\Users\Xxmat\Documents\Src\C# 1\DriverLicenseFormat\obj\Debug\netcoreapp3.1\DriverLicenseFormat.AssemblyInfoInputs.cache
+C:\Users\Xxmat\Documents\Src\C# 1\DriverLicenseFormat\obj\Debug\netcoreapp3.1\DriverLicenseFormat.AssemblyInfo.cs
+C:\Users\Xxmat\Documents\Src\C# 1\DriverLicenseFormat\bin\Debug\netcoreapp3.1\DriverLicenseFormat.exe
+C:\Users\Xxmat\Documents\Src\C# 1\DriverLicenseFormat\bin\Debug\netcoreapp3.1\DriverLicenseFormat.deps.json
+C:\Users\Xxmat\Documents\Src\C# 1\DriverLicenseFormat\bin\Debug\netcoreapp3.1\DriverLicenseFormat.runtimeconfig.json
+C:\Users\Xxmat\Documents\Src\C# 1\DriverLicenseFormat\bin\Debug\netcoreapp3.1\DriverLicenseFormat.runtimeconfig.dev.json
+C:\Users\Xxmat\Documents\Src\C# 1\DriverLicenseFormat\bin\Debug\netcoreapp3.1\DriverLicenseFormat.dll
+C:\Users\Xxmat\Documents\Src\C# 1\DriverLicenseFormat\bin\Debug\netcoreapp3.1\DriverLicenseFormat.pdb
+C:\Users\Xxmat\Documents\Src\C# 1\DriverLicenseFormat\obj\Debug\netcoreapp3.1\DriverLicenseFormat.dll
+C:\Users\Xxmat\Documents\Src\C# 1\DriverLicenseFormat\obj\Debug\netcoreapp3.1\DriverLicenseFormat.pdb
+C:\Users\Xxmat\Documents\Src\C# 1\DriverLicenseFormat\obj\Debug\netcoreapp3.1\DriverLicenseFormat.genruntimeconfig.cache
+C:\Users\Xxmat\Documents\Src\C# 1\DriverLicenseFormat\obj\Debug\netcoreapp3.1\DriverLicenseFormat.csprojAssemblyReference.cache

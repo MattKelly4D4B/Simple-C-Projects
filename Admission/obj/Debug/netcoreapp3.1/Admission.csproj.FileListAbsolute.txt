@@ -1,0 +1,13 @@
+C:\Users\Xxmat\source\repos\Admission\bin\Debug\netcoreapp3.1\Admission.exe
+C:\Users\Xxmat\source\repos\Admission\bin\Debug\netcoreapp3.1\Admission.deps.json
+C:\Users\Xxmat\source\repos\Admission\bin\Debug\netcoreapp3.1\Admission.runtimeconfig.json
+C:\Users\Xxmat\source\repos\Admission\bin\Debug\netcoreapp3.1\Admission.runtimeconfig.dev.json
+C:\Users\Xxmat\source\repos\Admission\bin\Debug\netcoreapp3.1\Admission.dll
+C:\Users\Xxmat\source\repos\Admission\bin\Debug\netcoreapp3.1\Admission.pdb
+C:\Users\Xxmat\source\repos\Admission\obj\Debug\netcoreapp3.1\Admission.csprojAssemblyReference.cache
+C:\Users\Xxmat\source\repos\Admission\obj\Debug\netcoreapp3.1\Admission.csproj.CoreCompileInputs.cache
+C:\Users\Xxmat\source\repos\Admission\obj\Debug\netcoreapp3.1\Admission.AssemblyInfoInputs.cache
+C:\Users\Xxmat\source\repos\Admission\obj\Debug\netcoreapp3.1\Admission.AssemblyInfo.cs
+C:\Users\Xxmat\source\repos\Admission\obj\Debug\netcoreapp3.1\Admission.dll
+C:\Users\Xxmat\source\repos\Admission\obj\Debug\netcoreapp3.1\Admission.pdb
+C:\Users\Xxmat\source\repos\Admission\obj\Debug\netcoreapp3.1\Admission.genruntimeconfig.cache

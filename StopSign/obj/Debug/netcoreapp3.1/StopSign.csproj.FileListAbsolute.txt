@@ -1,0 +1,13 @@
+C:\Users\Xxmat\Documents\Src\C# 1\StopSign\bin\Debug\netcoreapp3.1\StopSign.exe
+C:\Users\Xxmat\Documents\Src\C# 1\StopSign\bin\Debug\netcoreapp3.1\StopSign.deps.json
+C:\Users\Xxmat\Documents\Src\C# 1\StopSign\bin\Debug\netcoreapp3.1\StopSign.runtimeconfig.json
+C:\Users\Xxmat\Documents\Src\C# 1\StopSign\bin\Debug\netcoreapp3.1\StopSign.runtimeconfig.dev.json
+C:\Users\Xxmat\Documents\Src\C# 1\StopSign\bin\Debug\netcoreapp3.1\StopSign.dll
+C:\Users\Xxmat\Documents\Src\C# 1\StopSign\bin\Debug\netcoreapp3.1\StopSign.pdb
+C:\Users\Xxmat\Documents\Src\C# 1\StopSign\obj\Debug\netcoreapp3.1\StopSign.csprojAssemblyReference.cache
+C:\Users\Xxmat\Documents\Src\C# 1\StopSign\obj\Debug\netcoreapp3.1\StopSign.csproj.CoreCompileInputs.cache
+C:\Users\Xxmat\Documents\Src\C# 1\StopSign\obj\Debug\netcoreapp3.1\StopSign.AssemblyInfoInputs.cache
+C:\Users\Xxmat\Documents\Src\C# 1\StopSign\obj\Debug\netcoreapp3.1\StopSign.AssemblyInfo.cs
+C:\Users\Xxmat\Documents\Src\C# 1\StopSign\obj\Debug\netcoreapp3.1\StopSign.dll
+C:\Users\Xxmat\Documents\Src\C# 1\StopSign\obj\Debug\netcoreapp3.1\StopSign.pdb
+C:\Users\Xxmat\Documents\Src\C# 1\StopSign\obj\Debug\netcoreapp3.1\StopSign.genruntimeconfig.cache

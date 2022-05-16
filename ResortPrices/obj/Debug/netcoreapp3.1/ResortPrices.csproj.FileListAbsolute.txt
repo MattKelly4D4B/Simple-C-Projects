@@ -1,0 +1,13 @@
+C:\Users\Xxmat\Documents\Src\C# 1\ResortPrices\bin\Debug\netcoreapp3.1\ResortPrices.exe
+C:\Users\Xxmat\Documents\Src\C# 1\ResortPrices\bin\Debug\netcoreapp3.1\ResortPrices.deps.json
+C:\Users\Xxmat\Documents\Src\C# 1\ResortPrices\bin\Debug\netcoreapp3.1\ResortPrices.runtimeconfig.json
+C:\Users\Xxmat\Documents\Src\C# 1\ResortPrices\bin\Debug\netcoreapp3.1\ResortPrices.runtimeconfig.dev.json
+C:\Users\Xxmat\Documents\Src\C# 1\ResortPrices\bin\Debug\netcoreapp3.1\ResortPrices.dll
+C:\Users\Xxmat\Documents\Src\C# 1\ResortPrices\bin\Debug\netcoreapp3.1\ResortPrices.pdb
+C:\Users\Xxmat\Documents\Src\C# 1\ResortPrices\obj\Debug\netcoreapp3.1\ResortPrices.csprojAssemblyReference.cache
+C:\Users\Xxmat\Documents\Src\C# 1\ResortPrices\obj\Debug\netcoreapp3.1\ResortPrices.csproj.CoreCompileInputs.cache
+C:\Users\Xxmat\Documents\Src\C# 1\ResortPrices\obj\Debug\netcoreapp3.1\ResortPrices.AssemblyInfoInputs.cache
+C:\Users\Xxmat\Documents\Src\C# 1\ResortPrices\obj\Debug\netcoreapp3.1\ResortPrices.AssemblyInfo.cs
+C:\Users\Xxmat\Documents\Src\C# 1\ResortPrices\obj\Debug\netcoreapp3.1\ResortPrices.dll
+C:\Users\Xxmat\Documents\Src\C# 1\ResortPrices\obj\Debug\netcoreapp3.1\ResortPrices.pdb
+C:\Users\Xxmat\Documents\Src\C# 1\ResortPrices\obj\Debug\netcoreapp3.1\ResortPrices.genruntimeconfig.cache

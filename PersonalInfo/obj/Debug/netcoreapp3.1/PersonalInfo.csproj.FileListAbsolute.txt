@@ -1,0 +1,13 @@
+C:\Users\Xxmat\Documents\Src\C# 1\PersonalInfo\obj\Debug\netcoreapp3.1\PersonalInfo.csprojAssemblyReference.cache
+C:\Users\Xxmat\Documents\Src\C# 1\PersonalInfo\obj\Debug\netcoreapp3.1\PersonalInfo.csproj.CoreCompileInputs.cache
+C:\Users\Xxmat\Documents\Src\C# 1\PersonalInfo\obj\Debug\netcoreapp3.1\PersonalInfo.AssemblyInfoInputs.cache
+C:\Users\Xxmat\Documents\Src\C# 1\PersonalInfo\obj\Debug\netcoreapp3.1\PersonalInfo.AssemblyInfo.cs
+C:\Users\Xxmat\Documents\Src\C# 1\PersonalInfo\bin\Debug\netcoreapp3.1\PersonalInfo.exe
+C:\Users\Xxmat\Documents\Src\C# 1\PersonalInfo\bin\Debug\netcoreapp3.1\PersonalInfo.deps.json
+C:\Users\Xxmat\Documents\Src\C# 1\PersonalInfo\bin\Debug\netcoreapp3.1\PersonalInfo.runtimeconfig.json
+C:\Users\Xxmat\Documents\Src\C# 1\PersonalInfo\bin\Debug\netcoreapp3.1\PersonalInfo.runtimeconfig.dev.json
+C:\Users\Xxmat\Documents\Src\C# 1\PersonalInfo\bin\Debug\netcoreapp3.1\PersonalInfo.dll
+C:\Users\Xxmat\Documents\Src\C# 1\PersonalInfo\bin\Debug\netcoreapp3.1\PersonalInfo.pdb
+C:\Users\Xxmat\Documents\Src\C# 1\PersonalInfo\obj\Debug\netcoreapp3.1\PersonalInfo.dll
+C:\Users\Xxmat\Documents\Src\C# 1\PersonalInfo\obj\Debug\netcoreapp3.1\PersonalInfo.pdb
+C:\Users\Xxmat\Documents\Src\C# 1\PersonalInfo\obj\Debug\netcoreapp3.1\PersonalInfo.genruntimeconfig.cache

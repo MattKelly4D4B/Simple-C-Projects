@@ -1,0 +1,13 @@
+C:\Users\Xxmat\source\repos\CheckDigit\bin\Debug\netcoreapp3.1\CheckDigit.exe
+C:\Users\Xxmat\source\repos\CheckDigit\bin\Debug\netcoreapp3.1\CheckDigit.deps.json
+C:\Users\Xxmat\source\repos\CheckDigit\bin\Debug\netcoreapp3.1\CheckDigit.runtimeconfig.json
+C:\Users\Xxmat\source\repos\CheckDigit\bin\Debug\netcoreapp3.1\CheckDigit.runtimeconfig.dev.json
+C:\Users\Xxmat\source\repos\CheckDigit\bin\Debug\netcoreapp3.1\CheckDigit.dll
+C:\Users\Xxmat\source\repos\CheckDigit\bin\Debug\netcoreapp3.1\CheckDigit.pdb
+C:\Users\Xxmat\source\repos\CheckDigit\obj\Debug\netcoreapp3.1\CheckDigit.csprojAssemblyReference.cache
+C:\Users\Xxmat\source\repos\CheckDigit\obj\Debug\netcoreapp3.1\CheckDigit.csproj.CoreCompileInputs.cache
+C:\Users\Xxmat\source\repos\CheckDigit\obj\Debug\netcoreapp3.1\CheckDigit.AssemblyInfoInputs.cache
+C:\Users\Xxmat\source\repos\CheckDigit\obj\Debug\netcoreapp3.1\CheckDigit.AssemblyInfo.cs
+C:\Users\Xxmat\source\repos\CheckDigit\obj\Debug\netcoreapp3.1\CheckDigit.dll
+C:\Users\Xxmat\source\repos\CheckDigit\obj\Debug\netcoreapp3.1\CheckDigit.pdb
+C:\Users\Xxmat\source\repos\CheckDigit\obj\Debug\netcoreapp3.1\CheckDigit.genruntimeconfig.cache

@@ -1,0 +1,12 @@
+C:\Users\Xxmat\source\repos\DisplayMultiplicationTable\bin\Debug\netcoreapp3.1\DisplayMultiplicationTable.exe
+C:\Users\Xxmat\source\repos\DisplayMultiplicationTable\bin\Debug\netcoreapp3.1\DisplayMultiplicationTable.deps.json
+C:\Users\Xxmat\source\repos\DisplayMultiplicationTable\bin\Debug\netcoreapp3.1\DisplayMultiplicationTable.runtimeconfig.json
+C:\Users\Xxmat\source\repos\DisplayMultiplicationTable\bin\Debug\netcoreapp3.1\DisplayMultiplicationTable.runtimeconfig.dev.json
+C:\Users\Xxmat\source\repos\DisplayMultiplicationTable\bin\Debug\netcoreapp3.1\DisplayMultiplicationTable.dll
+C:\Users\Xxmat\source\repos\DisplayMultiplicationTable\bin\Debug\netcoreapp3.1\DisplayMultiplicationTable.pdb
+C:\Users\Xxmat\source\repos\DisplayMultiplicationTable\obj\Debug\netcoreapp3.1\DisplayMultiplicationTable.csproj.CoreCompileInputs.cache
+C:\Users\Xxmat\source\repos\DisplayMultiplicationTable\obj\Debug\netcoreapp3.1\DisplayMultiplicationTable.AssemblyInfoInputs.cache
+C:\Users\Xxmat\source\repos\DisplayMultiplicationTable\obj\Debug\netcoreapp3.1\DisplayMultiplicationTable.AssemblyInfo.cs
+C:\Users\Xxmat\source\repos\DisplayMultiplicationTable\obj\Debug\netcoreapp3.1\DisplayMultiplicationTable.dll
+C:\Users\Xxmat\source\repos\DisplayMultiplicationTable\obj\Debug\netcoreapp3.1\DisplayMultiplicationTable.pdb
+C:\Users\Xxmat\source\repos\DisplayMultiplicationTable\obj\Debug\netcoreapp3.1\DisplayMultiplicationTable.genruntimeconfig.cache

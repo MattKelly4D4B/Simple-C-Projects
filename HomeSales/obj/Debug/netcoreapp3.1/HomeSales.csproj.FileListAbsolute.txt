@@ -1,0 +1,13 @@
+C:\Users\Xxmat\source\repos\HomeSales\obj\Debug\netcoreapp3.1\HomeSales.csprojAssemblyReference.cache
+C:\Users\Xxmat\source\repos\HomeSales\obj\Debug\netcoreapp3.1\HomeSales.csproj.CoreCompileInputs.cache
+C:\Users\Xxmat\source\repos\HomeSales\obj\Debug\netcoreapp3.1\HomeSales.AssemblyInfoInputs.cache
+C:\Users\Xxmat\source\repos\HomeSales\obj\Debug\netcoreapp3.1\HomeSales.AssemblyInfo.cs
+C:\Users\Xxmat\source\repos\HomeSales\bin\Debug\netcoreapp3.1\HomeSales.exe
+C:\Users\Xxmat\source\repos\HomeSales\bin\Debug\netcoreapp3.1\HomeSales.deps.json
+C:\Users\Xxmat\source\repos\HomeSales\bin\Debug\netcoreapp3.1\HomeSales.runtimeconfig.json
+C:\Users\Xxmat\source\repos\HomeSales\bin\Debug\netcoreapp3.1\HomeSales.runtimeconfig.dev.json
+C:\Users\Xxmat\source\repos\HomeSales\bin\Debug\netcoreapp3.1\HomeSales.dll
+C:\Users\Xxmat\source\repos\HomeSales\bin\Debug\netcoreapp3.1\HomeSales.pdb
+C:\Users\Xxmat\source\repos\HomeSales\obj\Debug\netcoreapp3.1\HomeSales.dll
+C:\Users\Xxmat\source\repos\HomeSales\obj\Debug\netcoreapp3.1\HomeSales.pdb
+C:\Users\Xxmat\source\repos\HomeSales\obj\Debug\netcoreapp3.1\HomeSales.genruntimeconfig.cache

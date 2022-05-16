@@ -1,0 +1,10 @@
+C:\Users\Xxmat\Documents\Src\C# 1\TestslnteractiveGUl\bin\Debug\TestslnteractiveGUl.exe.config
+C:\Users\Xxmat\Documents\Src\C# 1\TestslnteractiveGUl\bin\Debug\TestslnteractiveGUl.exe
+C:\Users\Xxmat\Documents\Src\C# 1\TestslnteractiveGUl\bin\Debug\TestslnteractiveGUl.pdb
+C:\Users\Xxmat\Documents\Src\C# 1\TestslnteractiveGUl\obj\Debug\TestslnteractiveGUl.csprojAssemblyReference.cache
+C:\Users\Xxmat\Documents\Src\C# 1\TestslnteractiveGUl\obj\Debug\TestslnteractiveGUl.Form1.resources
+C:\Users\Xxmat\Documents\Src\C# 1\TestslnteractiveGUl\obj\Debug\TestslnteractiveGUl.Properties.Resources.resources
+C:\Users\Xxmat\Documents\Src\C# 1\TestslnteractiveGUl\obj\Debug\TestslnteractiveGUl.csproj.GenerateResource.cache
+C:\Users\Xxmat\Documents\Src\C# 1\TestslnteractiveGUl\obj\Debug\TestslnteractiveGUl.csproj.CoreCompileInputs.cache
+C:\Users\Xxmat\Documents\Src\C# 1\TestslnteractiveGUl\obj\Debug\TestslnteractiveGUl.exe
+C:\Users\Xxmat\Documents\Src\C# 1\TestslnteractiveGUl\obj\Debug\TestslnteractiveGUl.pdb
